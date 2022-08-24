@@ -1,0 +1,7 @@
+install flask
+install mysqlclient
+install flask sql alchemy
+install flask login
+install flask mail
+
+
